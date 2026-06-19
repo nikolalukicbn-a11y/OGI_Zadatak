@@ -1,7 +1,7 @@
 # OGI Zadatak 5 — EV punjaci duz autoputa A-1
 
 **Predmet:** Osnove geoprostorne inteligencije (OGI)
-**Autor:** Nikola Lukic
+**Autor:** Nikola Lukic, Dusan Kozomara, Marija Blagojevic, Marko Pecanac
 
 ## Opis projekta
 
