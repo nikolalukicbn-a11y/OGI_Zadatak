@@ -1,0 +1,44 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:3857"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 1,
+    "naziv": "A-1",
+    "klasa": "motorway"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      0,
+      0
+     ],
+     [
+      80000,
+      5000
+     ],
+     [
+      150000,
+      30000
+     ],
+     [
+      220000,
+      35000
+     ],
+     [
+      300000,
+      50000
+     ]
+    ]
+   }
+  }
+ ]
+}

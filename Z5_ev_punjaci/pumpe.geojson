@@ -1,0 +1,341 @@
+{
+ "type": "FeatureCollection",
+ "crs": {
+  "type": "name",
+  "properties": {
+   "name": "EPSG:3857"
+  }
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 1,
+    "naziv": "Pumpa_1",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1398.2,
+     -18.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 2,
+    "naziv": "Pumpa_2",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15893.1,
+     893.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 3,
+    "naziv": "Pumpa_3",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25503.8,
+     1694.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 4,
+    "naziv": "Pumpa_4",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     39407.4,
+     2347.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 5,
+    "naziv": "Pumpa_5",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     54256.8,
+     3527.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 6,
+    "naziv": "Pumpa_6",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     69891.4,
+     4290.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 7,
+    "naziv": "Pumpa_7",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81233.4,
+     5511.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 8,
+    "naziv": "Pumpa_8",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106406.3,
+     14482.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 9,
+    "naziv": "Pumpa_9",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118335.3,
+     18551.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 10,
+    "naziv": "Pumpa_10",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     129455.2,
+     22766.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 11,
+    "naziv": "Pumpa_11",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     140137.7,
+     26433.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 12,
+    "naziv": "Pumpa_12",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151310.8,
+     29945.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 13,
+    "naziv": "Pumpa_13",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     165881.7,
+     31320.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 14,
+    "naziv": "Pumpa_14",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     178874.6,
+     32160.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 15,
+    "naziv": "Pumpa_15",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     189404.9,
+     32786.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 16,
+    "naziv": "Pumpa_16",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     203346.7,
+     33828.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 17,
+    "naziv": "Pumpa_17",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     217794.0,
+     34885.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 18,
+    "naziv": "Pumpa_18",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     232225.1,
+     37316.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 19,
+    "naziv": "Pumpa_19",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     244976.0,
+     39580.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 20,
+    "naziv": "Pumpa_20",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     259372.6,
+     42474.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 21,
+    "naziv": "Pumpa_21",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     276705.7,
+     45728.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": 22,
+    "naziv": "Pumpa_22",
+    "amenity": "fuel"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     290116.1,
+     48037.7
+    ]
+   }
+  }
+ ]
+}
